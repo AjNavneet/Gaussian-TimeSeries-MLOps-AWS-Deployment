@@ -1,4 +1,4 @@
-# Time Series Gaussian Model Deployment on AWS
+# Time Series Gaussian Model and AWS Deployment
 
 ## Business Objective
 
@@ -137,26 +137,5 @@ The dataset contains 132 rows and 8 columns, including:
 - **install-lightsail-cli.sh:** Steps for Lightsail installation
 - **lightsail-deployment.md:** Readme file with Lightsail deployment instructions
 - **requirements.txt:** List of essential libraries with their versions
-
----
-
-## Key Concepts Explored
-
-1. Gaussian process
-2. Gaussian Kernel
-3. Gaussian process for time series
-4. Building a Gaussian model
-5. Hyperparameters in Gaussian process
-6. Evaluating results with R-squared and MSE scores
-7. Docker image creation
-8. Flask application
-9. EC2 and Docker setup
-10. AWS CLI installation
-11. Lightsail setup
-12. Uploading code files to EC2
-13. Creating an S3 storage bucket and using it for code deployment
-14. Docker deployment
-15. Lightsail Setup
-16. Lightsail Deployment
 
 ---
